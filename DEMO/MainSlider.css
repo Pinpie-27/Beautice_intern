@@ -1,0 +1,112 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.slide_background{
+    position: relative;
+}
+
+#img_background{
+    position: absolute;
+    margin-left: -684.5px;
+    margin-top: 210px;
+}
+
+#img_background img{
+    height: 742px;
+    width: 1266.42px;
+    z-index: 0;
+}
+
+.Main_Slider {
+    height: 805px;
+}
+
+.Slider_details{
+    position: absolute;
+    z-index: 1;
+}
+
+
+.Clinic h1 {
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 600;
+    width: 430px;
+    height: 128px;
+    margin-top: 211px;
+    margin-left: 180px;
+    color: #091156;
+}
+
+.Main_Details p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1.6px;
+    width: 474px;
+    height: 54px;
+    margin-top: -30px;
+    margin-left: 179.5px;
+    color: #091156;
+}
+
+.Details_Button {
+    /* width: 200px; */
+    height: 58.36px;
+}
+
+.btnDetails {
+    width: 200px;
+    height: 58.36px;
+    margin-top: 10px;
+    margin-left: 180px;
+    border-radius: 50px;
+    background-color: #FF64AE;
+    border: none;
+    font-size: 16px;
+    color: #ffffff;
+    letter-spacing: 2.2px;
+    font-weight: 600;
+    padding-top: 3px;
+    padding-left: 11px;
+}
+
+.Main_Slider img {
+    width: 601.05px;
+    height: 397.5px;
+    margin-top: -313px;
+    margin-left: 677px;
+}
+
+.main_rec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 132px;
+    margin-left: 145px;
+}
+
+
+.rectangle_2 {
+    width: 25.31px;
+    height: 8.15px;
+    background-color: #414880;
+    border-radius: 50px;
+}
+
+.rectangle_1 {
+    width: 14.82px;
+    height: 3.09px;
+    background-color: #EEEEEE;
+    border-radius: 50px;
+    margin-right: 5px;
+}
+
+.rectangle_3 {
+    width: 14.82px;
+    height: 3.09px;
+    background-color: #EEEEEE;
+    border-radius: 50px;
+    margin-left: 5px;
+}

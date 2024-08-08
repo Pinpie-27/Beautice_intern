@@ -1,0 +1,121 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+
+.Header {
+
+    /* width: 1140px; */
+    height: 63px;
+    margin-top: 41px;
+    margin-left: 150px;
+}
+
+.Main_Logo{
+    position: absolute;
+    z-index: 1;
+}
+
+.Main_Logo img {
+    width: 260px;
+    height: 70px;
+    margin-top: 2px;
+    margin-left: -12px;
+}
+
+.Main_Menu {
+    /* width: 481px; */
+    height: 25px;
+    margin-top: 66px;
+    margin-left: -149.5px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.list_menu {
+    list-style: none;
+    display: flex;
+}
+
+.menu_home {
+    width: 54px;
+    height: 24px;
+    margin-top: -65px;
+    margin-left: 550px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 2px;
+    color: #414880;
+}
+
+.menu_about {
+    width: 55px;
+    height: 24px;
+    margin-top: -65px;
+    margin-left: 55.5px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2.3px;
+    color: #8B8B8B;
+}
+
+.menu_service {
+    width: 69px;
+    height: 24px;
+    margin-top: -65px;
+    margin-left: 48px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1.6px;
+    color: #8B8B8B;
+}
+
+.menu_gallery {
+    width: 67px;
+    height: 24px;
+    margin-top: -65px;
+    margin-left: 46px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1.6px;
+    color: #8B8B8B;
+}
+
+.menu_blog {
+    width: 41px;
+    height: 24px;
+    margin-top: -65px;
+    margin-left: 47px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1.6px;
+    color: #8B8B8B;
+}
+
+.Contact_Button {
+    /* width: 158px; */
+    height: 52px;
+    margin-top: 18px;
+    position: absolute;
+    z-index: 1;
+}
+
+.btnContact {
+    width: 158px;
+    height: 52px;
+    margin-top: -245px;
+    margin-left: 975px;
+    border-radius: 50px;
+    background-color: #FF64AE;
+    border: none;
+    font-size: 16px;
+    color: #ffffff;
+    letter-spacing: 2.2px;
+    font-weight: 600;
+}

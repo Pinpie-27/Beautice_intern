@@ -1,0 +1,146 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* .Contact{
+    clear: both;
+} */
+
+.background_bubble_1{
+    position: relative;
+}
+
+#img_bubble_1{
+    position: absolute;
+    margin-left: -8px;
+    margin-top: 651px;
+}
+
+.Contact_Left{
+    margin-top: 1109px;
+    margin-left: 143px;
+    z-index: 1;
+
+}
+
+.Contact_Left, .Contact_Right{
+    display: flex;
+    position: absolute;
+}
+
+.Title_Contact{
+    margin-left: 763px;
+    margin-top: 715px;
+    width: 460px;
+}
+
+.Title_Contact h2{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #ff64ae;
+    margin-top: 144px;
+}
+
+.Title_Contact h1{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 45px;
+    color: #091156;
+    margin-top: -2px
+}
+
+.Contact_Right{
+    z-index: 1;
+    height: 930px;
+}
+
+.Contact_Right p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #8b8b8b;
+    letter-spacing: 1.6px;
+    margin-top: -6px;
+}
+
+.frm_input{
+    margin-left: 762px;
+    margin-top: 1040px;
+    position: absolute;
+    width: 700px;
+}
+
+.txtFirstName{
+    width: 237px;
+    height: 57px;
+    margin-top: 31px;
+    border-radius: 15px;
+    border: 1px #D9DDFE;
+    border-style: solid;
+}
+
+::placeholder{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 1.8px;
+    color: #C5C5C5;
+    text-indent: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.txtLastName{
+    width: 237px;
+    height: 57px;
+    margin-top: 32px;
+    border-radius: 15px;
+    border: 1px #D9DDFE;
+    border-style: solid;
+    margin-left: 32px;
+}
+
+.emlEmail{
+    width: 515px;
+    height: 57px;
+    margin-top: 39px;
+    border-radius: 15px;
+    border: 1px #D9DDFE;
+    border-style: solid;
+}
+
+.txtSub{
+    width: 515px;
+    height: 57px;
+    margin-top: 39px;
+    border-radius: 15px;
+    border: 1px #D9DDFE;
+    border-style: solid;
+}
+
+.txtIn{
+    width: 515px;
+    height: 237px;
+    margin-top: 39px;
+    border-radius: 15px;
+    border: 1px #D9DDFE;
+    border-style: solid;
+}
+
+.btnSend{
+    width: 248px;
+    height: 58px;
+    background-color: #ff64ae;
+    font-size: 16px;
+    font-weight: 600px;
+    line-height: 24px;
+    letter-spacing: 2.6px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 53px;
+    margin-left: 1px;
+    border-radius: 50px;
+    border-style: none;
+    padding-bottom: 4px;
+}
+
