@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1270px) {
+    .header_container {
+        align-items: center;
+        padding: 45px 80px;
+    }
+
+    .header-left {
+        display: none;
+    }
+
+    .hamburger {
+        display: block;
+    }
+}
